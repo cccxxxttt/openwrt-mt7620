@@ -1,5 +1,5 @@
 //感谢dq、大茶园丁两位大神的提供的指导，以下package由dq打包，配置都是lintel的，感谢lintel的贡献。  
-//                                 -- cxt 摘录,这应该是lintel配置比较好的一份源码
+//                                 -- cxt 摘录,这应该是lintel配置比较好的一份源码，留着备份
 
 This is the buildsystem for the OpenWrt Linux distribution.
 
