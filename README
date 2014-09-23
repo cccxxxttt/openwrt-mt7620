@@ -1,3 +1,7 @@
+MT7620 OPENWRT所用的RT2860V2 WIFI驱动PACKAGE
+网址：http://www.clz.me/rt2860v2-package/
+
+
 //感谢dq、大茶园丁两位大神的提供的指导，以下package由dq打包，配置都是lintel的，感谢lintel的贡献。  
 //                        -- cxt 摘录,网上找到的，这应该是lintel配置比较好的一份源码，留着备份
 
